@@ -46,4 +46,4 @@ You **CANNOT** open Github Desktop.
 
 <!-- Write your answer here -->
 
-- git pull
+- git pull remotename remotebranch
