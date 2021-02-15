@@ -10,7 +10,7 @@ You **CANNOT** open Github Desktop.
 
 <!-- Write your answer here -->
 
-- You have good control over Operating system and files which will make evert task faster
+- You have good control over Operating system and files which will make every task faster and automated.
 
 2. What is the Git command to send your code to Github?
 
