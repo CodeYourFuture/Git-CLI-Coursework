@@ -20,16 +20,16 @@ You __CANNOT__ open Github Desktop.
 
 4. What is the Git command for making a commit?
 
-<!--  -->
+<!-- git commit -m "message" -->
 
 5. What is the Git command to select the files you want to add to a commit?
 
-<!--   -->
+<!--  git add filename -->
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-<!--  -->
+<!-- git status -->
 
 7. What is the Git command to get changes from Github onto your computer?
 
-<!-- -->
+<!-- git pull remotename remotebranch -->
