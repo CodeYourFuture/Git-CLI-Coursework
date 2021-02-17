@@ -14,25 +14,24 @@ You __CANNOT__ open Github Desktop.
 </p>
 
 2. What is the Git command to send your code to Github?
-
-**git push <options>
+<b>git push <options> </b>
 
 3. What does the -m in a Git command mean or do?
 
-**message for example in git push -m "example"
+<b>message for example in git push -m "example" </b>
 
 4. What is the Git command for making a commit?
 
-**git commit <options> 
+<b>git commit <options>  </b>
 
 5. What is the Git command to select the files you want to add to a commit?
 
-**git add <options>
+<b>git add <options> </b>
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-**git status
+<b>git status </b>
 
 7. What is the Git command to get changes from Github onto your computer?
 
-**git pull <options>
+<b>git pull <options> </b>
