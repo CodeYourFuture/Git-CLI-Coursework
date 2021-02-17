@@ -8,7 +8,7 @@ You __CANNOT__ open Github Desktop.
 
 1. What is a benefit of using the Git CLI rather than a GUI?
 
-**You can do everything faster and from one place like build in terminal in visual studio.
+<b>You can do everything faster and from one place like build in terminal in visual studio.</b>
 <p align="center">
 <img width="15%" height="15%" src="https://resizing.flixster.com/W1O-1-_iQu64GfDa97A36baw1No=/206x305/v2/https://flxt.tmsimg.com/assets/p8119439_p_v10_aa.jpg" alt="picture from https://www.rottentomatoes.com/m/faster_2010">
 </p>
