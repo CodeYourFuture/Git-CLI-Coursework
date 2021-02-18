@@ -16,9 +16,11 @@ You **CANNOT** open Github Desktop.
 
 <!-- Write your answer here -->
 
+
 - git push
 
-3. What does the -m in a Git command mean or do?
+3. What does the -m in a Git commit command mean or do?
+
 
 <!-- Write your answer here -->
 
