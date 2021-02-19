@@ -40,7 +40,7 @@ git commit
 
 <!-- Write your answer here 
 git commit -a
-
+git commit add <filename>
 -->
 
 6. What is the Git command to see changes you have waiting to be committed?
