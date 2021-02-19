@@ -19,13 +19,11 @@ GUI can operate various tasks as the same time better than CLI, but cannot gener
 
 First, you could check the available places you could send the code to by using "git remote -v".
 
-Secondly, you should do "git push origin master" (assuming that is the correct place).
-
 On occasions, it might ask you to enter your username and password (but it shouldn't happen often).
 
-Third, to place all changes / files to the staging area, you do "git add" and then, you do "git commit -m + your message within speech marks".
+Secondly, to place all changes / files to the staging area, you do "git add" and then, you do "git commit -m + your message within speech marks".
 
-Finally, you would enter "git push".
+Finally, you would enter "git push" (or "git push origin master" -assuming that is the correct place).
 
 3. What does the -m in a Git commit command mean or do?
 
