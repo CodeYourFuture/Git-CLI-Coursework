@@ -12,7 +12,7 @@ You __CANNOT__ open Github Desktop.
 
 2. What is the Git command to send your code to Github?
 
-    - git push origin master
+    - git push origin main
 
 3. What does the -m in a Git commit command mean or do?
 
