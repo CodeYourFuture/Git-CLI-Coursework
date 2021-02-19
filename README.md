@@ -21,7 +21,7 @@ You __CANNOT__ open Github Desktop.
 
 <!-- Write your answer here 
 git push origin main
-
+git push origin master
 -->
 
 3. What does the -m in a Git commit command mean or do?
