@@ -1,35 +1,42 @@
 # Git CLI Quiz
 
-Remember, you must submit this quiz using __ONLY__ Git on the Command Line. 
+Remember, you must submit this quiz using **ONLY** Git on the Command Line.
 
-You __CANNOT__ open Github Desktop.
+You **CANNOT** open Github Desktop.
 
 ---
 
 1. What is a benefit of using the Git CLI rather than a GUI?
 
-<!-- Write your answer here -->
+You can work by using Git CLI everywhere, on your local computer someone else's computer When we use GUI like Github Desktop we can access only to a relatively small interface (whatever part the GUI creator deemed important).This means we are not fully interacting with Git and are therefore not familiar with (at least) some of its capabilities.
 
 2. What is the Git command to send your code to Github?
 
-<!-- Write your answer here -->
+First I will add the URL as origin
+$ git remote add origin [Github repo URL]
+
+Then I will push my commitments to the origin(github) to the master branch.
+git push origin master
 
 3. What does the -m in a Git commit command mean or do?
 
-<!-- Write your answer here -->
+-m means commitment message
 
 4. What is the Git command for making a commit?
 
-<!-- Write your answer here -->
+git commit
+it is used with -m for message and -a for all changes
 
 5. What is the Git command to select the files you want to add to a commit?
 
-<!-- Write your answer here -->
+git add [filename]
+
+we can also use git add . to add all files
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-<!-- Write your answer here -->
+git status
 
 7. What is the Git command to get changes from Github onto your computer?
 
-<!-- Write your answer here -->
+git pull [remote]
