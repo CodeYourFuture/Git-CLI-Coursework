@@ -14,7 +14,7 @@ You __CANNOT__ open Github Desktop.
 
 2. What is the Git command to send your code to Github?
 
-git push <REMOTENAME> <BRANCH>
+git push REMOTENAME BRANCH
 (git push origin main)
 
 3. What does the -m in a Git commit command mean or do?
@@ -27,7 +27,7 @@ git commit -m "your commit message"
 
 5. What is the Git command to select the files you want to add to a commit?
 
-git add <FILENAME>
+git add FILENAME
 
 6. What is the Git command to see changes you have waiting to be committed?
 
@@ -35,4 +35,4 @@ git status
 
 7. What is the Git command to get changes from Github onto your computer?
 
-git pull <REMOTENAME> <BRANCHNAME>
+git pull REMOTENAME BRANCHNAME
