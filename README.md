@@ -33,3 +33,6 @@ Git pull
 7. What is the Git command to get changes from Github onto your computer?
 
 Git fetch
+
+Answered:
+
