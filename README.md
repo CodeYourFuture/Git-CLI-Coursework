@@ -34,5 +34,4 @@ Git pull
 
 Git fetch
 
-Answered:
 
