@@ -24,7 +24,7 @@ git commit
 
 5. What is the Git command to select the files you want to add to a commit?
 
-git add
+git add 
 
 6. What is the Git command to see changes you have waiting to be committed?
 
