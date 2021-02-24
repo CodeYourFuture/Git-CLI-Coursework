@@ -19,7 +19,8 @@ I'm guessing this is asking for how to push code to git hub as commits are to sa
 
 Pushing via CLI wasn't shown in Git-it but it should be done as follow:
 
-git push -u <REMOTENAME> <REMOTEBRANCHNAME>
+git push
+
 
 3. What does the -m in a Git commit command mean or do?
 
