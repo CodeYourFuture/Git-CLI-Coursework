@@ -12,11 +12,11 @@ It's simple to copy and paste the commands for more than one computer with CLI. 
 
 2. What is the Git command to send your code to Github?
 
-git push <REMOTENAME> <BRANCHNAME>
+git push <REMOTENAME> <FORKED BRANCHNAME>
 
 eg.
 
-git push origin master
+git push origin main
 
 3. What does the -m in a Git commit command mean or do?
 
@@ -24,7 +24,7 @@ It is used with "git commit" and "message". It means that short (m) message desc
 
 eg.
 
-git commit -m "initial Commit"
+git commit -m "Initial Commit"
 
 4. What is the Git command for making a commit?
 
@@ -36,7 +36,7 @@ git add <FILENAME>
 Also git add . //It sends all files with one command.
 
 eg.
-git add readme.txt
+git add README.MD
 
 6. What is the Git command to see changes you have waiting to be committed?
 
@@ -44,7 +44,4 @@ git status
 
 7. What is the Git command to get changes from Github onto your computer?
 
-git pull <REMOTENAME> <BRANCHNAME>
-
-eg.
-git pull origin master
+git fetch <FORKED BRANCHNAME>
