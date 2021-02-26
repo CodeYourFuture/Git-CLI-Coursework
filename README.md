@@ -12,7 +12,7 @@ You **CANNOT** open Github Desktop.
 
 2. What is the Git command to send your code to Github?
 
-<!-- Write your answer here --> git clone <repo link>
+<!-- Write your answer here --> git push 'remote_name'
 
 3. What does the -m in a Git commit command mean or do?
 
