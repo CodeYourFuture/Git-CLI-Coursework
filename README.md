@@ -32,4 +32,4 @@ git add . (for all files) or git add "filename" (for one file).
 
 7. What is the Git command to get changes from Github onto your computer?
 
-"git clone"
+"git fetch remote name"
