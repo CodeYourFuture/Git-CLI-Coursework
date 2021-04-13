@@ -36,25 +36,23 @@ Overall, a GUI is used by more users today than a CLI. Dedicated and hard core p
 git add
 
 3. What does the -m in a Git commit command mean or do?
-Add a short message describing my commit
 <!-- Write your answer here -->
+Add a short message describing my commit
 
 4. What is the Git command for making a commit?
-git commit -m "your commit message"
 <!-- Write your answer here -->
+git commit -m "your commit message"
 
 5. What is the Git command to select the files you want to add to a commit?
 <!-- Write your answer here -->
 git add <FILENAME> - add a file's changes to be comitted.
-git add - add all files changes.
+
 
 6. What is the Git command to see changes you have waiting to be committed?
 <!-- Write your answer here -->
 git diff
 
 7. What is the Git command to get changes from Github onto your computer?
+<!-- Write your answer here -->
 git fetch <remotename>
 Fetches updates made to a remote repository.
-
-
-<!-- Write your answer here -->
