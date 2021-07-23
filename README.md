@@ -34,10 +34,10 @@ git add <file>
 6. What is the Git command to see changes you have waiting to be committed?
 
 <!-- Write your answer here -->
-git status
+git status,
 git diff
 
 7. What is the Git command to get changes from Github onto your computer?
 
 <!-- Write your answer here -->
-git remote upstream <urlOfRepo>
+git remote upstream <--urlOfRepo-->
