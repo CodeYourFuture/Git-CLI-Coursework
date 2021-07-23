@@ -1,4 +1,4 @@
-# Git CLI Quiz
+# Git CLI Quiz.
 
 Remember, you must submit this quiz using **ONLY** Git on the Command Line.
 
@@ -41,7 +41,7 @@ Ans: $ git add <filename> 6. What is the Git command to see changes you have wai
 
 <!-- Write your answer here -->
 
-Ans: $ git status & $ git diff 7. What is the Git command to get changes from Github onto your computer?
+Ans: $ git status & $ git diff 7. What is the Git command to get changes from Github onto your computer??
 
 <!-- Write your answer here -->
 
