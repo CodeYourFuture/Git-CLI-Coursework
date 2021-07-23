@@ -15,7 +15,9 @@ GUI needs to use additional resources to load graphical part thus it is slower t
 
 CLI offers complete control over the file and operating system.We can create scripts of commands to perform actions.
 
-Although GUI’s can create shortcuts, they do not readily support scripting or automation. For common tasks, a user must repeat each action within the GUI manually. 2. What is the Git command to send your code to Github?
+Although GUI’s can create shortcuts, they do not readily support scripting or automation. For common tasks, a user must repeat each action within the GUI manually.
+
+2. What is the Git command to send your code to Github?
 
 <!-- Write your answer here -->
 
@@ -37,12 +39,18 @@ Ans: $ git commit -m "my commit messages".
 
 <!-- Write your answer here -->
 
-Ans: $ git add <filename> 6. What is the Git command to see changes you have waiting to be committed?
+Ans: $ git add <filename>
+
+6. What is the Git command to see changes you have waiting to be committed?
 
 <!-- Write your answer here -->
 
-Ans: $ git status & $ git diff 7. What is the Git command to get changes from Github onto your computer??
+Ans: $ git status & $ git diff
+
+7. What is the Git command to get changes from Github onto your computer??
 
 <!-- Write your answer here -->
 
 Ans: $ git pull <remotename><branchname>
+
+<!--answered all questions-->
