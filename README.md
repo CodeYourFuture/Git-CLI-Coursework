@@ -29,7 +29,7 @@ You **CANNOT** open Github Desktop.
 5. What is the Git command to select the files you want to add to a commit?
    <!-- Write your answer here -->
 
-   git add
+   git add fileName
 
 6. What is the Git command to see changes you have waiting to be committed?
    <!-- Write your answer here -->
