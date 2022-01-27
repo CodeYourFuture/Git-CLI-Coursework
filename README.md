@@ -13,6 +13,7 @@ A GUI does not have the same level of functionality and granular control as a co
 2. What is the Git command to send your code to Github?
 
 The git push command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like GitHub.
+git push orgin <branch name>
 
 3. What does the -m in a Git commit command mean or do?
 
@@ -24,12 +25,13 @@ git commit -m
 
 5. What is the Git command to select the files you want to add to a commit?
 
-Enter git add --all at the command line prompt in your local project directory to add the files or changes to the repository. Enter git status to see the changes to be committed. Enter git commit -m '<commit_message>' at the command line to commit new files/changes to the local repository.
+Enter git add --all at the command line prompt in your local project directory to add the files or changes to the repository.
+git add <filename>
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-If you want to see what you've staged that will go into your next commit, you can use git diff --staged. This command compares your staged changes to your last commit.
+The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. Status output does not show you any information regarding the committed project history.
 
 7. What is the Git command to get changes from Github onto your computer?
 
-The git clone command copies your repository from GitHub to your local computer.
+git pull <remote name> <branch name>
