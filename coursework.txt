@@ -1,0 +1,20 @@
+What is a benefit of using the Git CLI rather than a GUI?
+my answer is Git CLI offers more flexibility than a GUI and can be faster.
+
+What is the Git command to send your code to Github?
+my answer is git push
+
+What does the -m in a Git commit command mean or do?
+my answer is to set the commit message
+
+What is the Git command for making a commit?
+my answer is git commit -m "<my message>"
+
+What is the Git command to select the files you want to add to a commit?
+my answer is git add + file's name
+
+What is the Git command to see changes you have waiting to be committed?
+my answer is git status
+
+What is the Git command to get changes from Github onto your computer?
+my answer is git pull
