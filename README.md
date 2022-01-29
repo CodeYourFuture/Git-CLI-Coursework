@@ -13,7 +13,7 @@ my answer is: You feel comfortable everywhere/ Fully utilizing Git/Git CLI gives
 
 2. What is the Git command to send your code to Github?
 
-<!-- Write your answer here -->git push
+<!-- Write your answer here -->git push origin
 The git push command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like GitHub.
 
 3. What does the -m in a Git commit command mean or do?
