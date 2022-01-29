@@ -15,7 +15,7 @@ The notable difference is that GUI users depend on graphical elements such as ic
 2. What is the Git command to send your code to Github?
 
 <!-- Write your answer here -->
-answer - git push origing
+answer - git push origin
 
 3. What does the -m in a Git commit command mean or do?
 
