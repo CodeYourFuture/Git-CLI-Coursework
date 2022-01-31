@@ -33,11 +33,11 @@ You __CANNOT__ open Github Desktop.
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-<!-- git status -->
+<!-- git status  -->
 
 
 7. What is the Git command to get changes from Github onto your computer?
 
-<!-- git pull -->
+<!-- git pull   -->
 
 
