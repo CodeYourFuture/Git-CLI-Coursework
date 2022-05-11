@@ -33,3 +33,5 @@ git status
 7. What is the Git command to get changes from Github onto your computer?
 
 git pull
+
+//got git working
