@@ -8,29 +8,30 @@ You __CANNOT__ open Github Desktop.
 
 1. What is a benefit of using the Git CLI rather than a GUI?
 
-<!-- Write your answer here -->
-my answer is
+CLI can be used to do things that are difficult and has greater flexibility of use, whereas GUI needs to use additional system resources to load the graphical part thus it is going to be slower than using the command line.
 
 2. What is the Git command to send your code to Github?
+git push
 
-<!-- Write your answer here -->
 
 3. What does the -m in a Git commit command mean or do?
 
-<!-- Write your answer here -->
+It means message. It communicates what was changed or added in the commit
 
 4. What is the Git command for making a commit?
 
-<!-- Write your answer here -->
+Git commit -m
 
 5. What is the Git command to select the files you want to add to a commit?
+git add --all
 
-<!-- Write your answer here -->
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-<!-- Write your answer here -->
+git status
 
 7. What is the Git command to get changes from Github onto your computer?
 
-<!-- Write your answer here -->
+git pull
+
+//got git working
