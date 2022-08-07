@@ -1,0 +1,7 @@
+Because it's quicker and simple as it allows the user to use one tool for multiple tasks.
+<Git push> add origin master is the command to send your code to Github,
+-<M>in Git command stands for message and is used when one is about to c is about to commit a change,
+<Git commit -m>is the command to make a commit,
+Git checkout <fileName> is the command to select files you want to commit,
+Git add is the command to check changes you waiting to be committed,
+Git pull is the command to get changes from Github to your computer, 
