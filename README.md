@@ -25,11 +25,12 @@ git commit -m "your commit message"
 
 5. What is the Git command to select the files you want to add to a commit?
 
-git add "fileName"
+git add "fileName" 
+git add . (for adding all files)
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-git diff
+git status
 
 7. What is the Git command to get changes from Github onto your computer?
 
