@@ -33,3 +33,14 @@ git status
 7. What is the Git command to get changes from Github onto your computer?
 
 git pull
+
+---
+
+### Commands used for this exercise:
+
+- gh repo fork https://github.com/CodeYourFuture/- Git-CLI-Coursework --fork-name "git-cli" --clone
+- cd git-cli
+- git status
+- git add README.md
+- git commit -m "completed"
+- git push
