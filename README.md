@@ -39,10 +39,15 @@ You **CANNOT** open Github Desktop.
 
 ### Commands used for this exercise:
 
-- gh repo fork https://github.com/CodeYourFuture/- Git-CLI-Coursework --fork-name "git-cli" --clone
-- cd git-cli
-- git status
-- git add README.md
-- git commit -m "completed"
-- git push
-- gh pr create --title "London 9 - Baz Murphy - Git-Cli-Coursework" --body "Completed"
+1. gh repo fork https://github.com/CodeYourFuture/- Git-CLI-Coursework --fork-name "git-cli" --clone
+2. cd git-cli
+3. git status
+4. git add .
+5. git commit -m "completed"
+6. git push
+7. gh pr create
+8. gh pr create
+9. base repository: CodeYourFuture/Git-Cli-Coursework
+10. title: London 9 - Baz Murphy - Git-Cli-Coursework
+11. body: e to open notepad. write body. save. close notepad.
+12. submit
