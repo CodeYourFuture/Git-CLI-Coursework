@@ -39,7 +39,7 @@ a snapshot of project at a specific point in time and storing it permanently in 
 
 6. What is the Git command to see changes you have waiting to be committed?
 
- $ git diff  
+ $ git status  
 
 7. What is the Git command to get changes from Github onto your computer?
 
