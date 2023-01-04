@@ -40,4 +40,4 @@ To see the changes that you have waiting to be committed in Git, you can use the
 
 7. What is the Git command to get changes from Github onto your computer?
 
-<!-- Write your answer here -->
+To get changes from GitHub onto your computer using Git, you will need to use the git pull command. This command is used to fetch and download changes from a remote repository, and then merge those changes into your local repository.
