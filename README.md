@@ -32,7 +32,7 @@ In Git, the git commit command is used to create a commit, which is a snapshot o
 
 5. What is the Git command to select the files you want to add to a commit?
 
-<!-- Write your answer here -->
+To select the files that you want to include in a commit, you will need to use the git add command. This command is used to stage files for a commit, which means that it prepares the files to be included in the next commit.
 
 6. What is the Git command to see changes you have waiting to be committed?
 
