@@ -28,7 +28,7 @@ In Git, the -m option is used to specify a commit message when performing a comm
 
 4. What is the Git command for making a commit?
 
-<!-- Write your answer here -->
+In Git, the git commit command is used to create a commit, which is a snapshot of your repository at a particular point in time. When you make a commit, you are recording the state of your repository, including all of your modified files and any new files that you have added.
 
 5. What is the Git command to select the files you want to add to a commit?
 
