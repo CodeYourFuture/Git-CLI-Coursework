@@ -20,7 +20,7 @@ The Git CLI is more portable than a GUI, since you can easily copy and paste com
 
 2. What is the Git command to send your code to Github?
 
-<!-- Write your answer here -->
+git push
 
 3. What does the -m in a Git commit command mean or do?
 
