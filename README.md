@@ -16,7 +16,7 @@ my answer is: With CLI, users have control over file systems making tasks are si
 
 <!-- Write your answer here -->
 
-answer: git push <REMOTENAME> <BRANCHNAME>
+answer: git push "REMOTENAME" "BRANCHNAME"
 
 3. What does the -m in a Git commit command mean or do?
 
@@ -34,7 +34,7 @@ answer: git commit -m "your commit message"
 
 <!-- Write your answer here -->
 
-answer: git add <FILENAME>
+answer: git add "FILENAME"
 
 6. What is the Git command to see changes you have waiting to be committed?
 
@@ -46,4 +46,4 @@ answer: git status
 
 <!-- Write your answer here -->
 
-answer: git pull <REMOTENAME> <REMOTEBRANCH>
+answer: git pull "REMOTENAME" "REMOTEBRANCH"
