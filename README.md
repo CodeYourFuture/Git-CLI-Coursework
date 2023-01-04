@@ -24,7 +24,7 @@ git push
 
 3. What does the -m in a Git commit command mean or do?
 
-<!-- Write your answer here -->
+In Git, the -m option is used to specify a commit message when performing a commit. When you run the git commit command without this option, Git will open your default text editor and ask you to enter a commit message.
 
 4. What is the Git command for making a commit?
 
