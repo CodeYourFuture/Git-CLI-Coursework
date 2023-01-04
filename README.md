@@ -36,7 +36,7 @@ To select the files that you want to include in a commit, you will need to use t
 
 6. What is the Git command to see changes you have waiting to be committed?
 
-<!-- Write your answer here -->
+To see the changes that you have waiting to be committed in Git, you can use the git diff command with the --staged option. This command shows you the differences between the files in your staging area and the most recent commit.
 
 7. What is the Git command to get changes from Github onto your computer?
 
