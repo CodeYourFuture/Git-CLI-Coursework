@@ -16,7 +16,7 @@ Git CLI gives you a power allows you to write better deployment scripts.
 
 2. What is the Git command to send your code to Github?
 
-
+git push
 
 3. What does the -m in a Git commit command mean or do?
 
