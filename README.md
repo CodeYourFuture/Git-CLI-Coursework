@@ -9,7 +9,9 @@ You __CANNOT__ open Github Desktop.
 1. What is a benefit of using the Git CLI rather than a GUI?
 
 <!-- Write your answer here -->
-
+Automation via use of scripts. 
+Greater control on individual commands
+Fact that the UI may change, but the CLI commands remain the same.
 
 2. What is the Git command to send your code to Github?
 
