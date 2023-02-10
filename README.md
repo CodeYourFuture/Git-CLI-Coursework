@@ -10,27 +10,28 @@ You __CANNOT__ open Github Desktop.
 
 <!-- Write your answer here -->
 my answer is
-
+//it is quicker and gives access to better tools than the GUI
 2. What is the Git command to send your code to Github?
 
 <!-- Write your answer here -->
-
+git push
 3. What does the -m in a Git commit command mean or do?
 
 <!-- Write your answer here -->
-
+message, allows you to send a message
 4. What is the Git command for making a commit?
 
 <!-- Write your answer here -->
-
+git commit -m 'text'
 5. What is the Git command to select the files you want to add to a commit?
 
 <!-- Write your answer here -->
-
+git add filename or git add .
 6. What is the Git command to see changes you have waiting to be committed?
 
 <!-- Write your answer here -->
-
+git status
 7. What is the Git command to get changes from Github onto your computer?
 
 <!-- Write your answer here -->
+git pull or  git fetch then git merge
